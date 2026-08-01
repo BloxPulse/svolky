@@ -9,8 +9,6 @@ IP Grabber : Serveur HTTP local pour capturer les adresses IP
 
 IP Localiser : Géolocalisation d'une adresse IP (pays, ville, FAI...)
 
-Dox : Simulation de recherche par email ou téléphone
-
 Discord
 Nitro Generator : Génère 10 codes Nitro aléatoires
 
